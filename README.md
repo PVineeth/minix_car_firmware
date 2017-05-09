@@ -6,6 +6,8 @@ The car is also fitted with four led's. One on the front left which blinks when 
 
 Accelerometer/Gyroscope/Magnetometer sensor (MPU-6050) is also fitted onto the car.
 
+You can refer to `MiniX Language.docx` file to learn about the commands used in the firmware to control the car. You can also further develop the language and incorporate it into the firmware.
+
 Video: https://www.youtube.com/watch?v=wNm8S-7B3EQ
 
 # Usage
